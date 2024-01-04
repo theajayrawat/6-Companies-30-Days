@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/high-access-employees/
 // TC: O(N)
-// SC: O()
+// SC: O(N)
 
 class Solution {
 public:
