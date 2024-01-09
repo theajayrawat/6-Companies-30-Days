@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/description/
+// https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
 // TC: O(N)
 // SC: O(1)
 
