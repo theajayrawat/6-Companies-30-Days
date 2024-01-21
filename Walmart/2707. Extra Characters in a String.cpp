@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/extra-characters-in-a-string/
-// O(2^N)
-// O(2^N)
+// TC: O(2^N)
+// SC: O(2^N)
 
 class Solution {
 public:

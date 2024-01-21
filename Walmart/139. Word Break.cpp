@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/word-break/
-// SC: O(N)
-// TC: O(N) 
+// TC: O(N)
+// SC: O(N) 
 
 class Solution {
 public:

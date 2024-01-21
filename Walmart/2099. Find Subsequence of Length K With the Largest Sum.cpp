@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
-// SC: O(NlogN)
-// TC: O(N) 
+// TC: O(NlogN)
+// SC: O(N) 
 
 class Solution {
 public:

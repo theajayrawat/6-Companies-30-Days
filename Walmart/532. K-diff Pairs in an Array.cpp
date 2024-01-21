@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/k-diff-pairs-in-an-array/
-// SC: O(N)
-// TC: O(N) 
+// TC: O(N)
+// SC: O(N) 
 
 class Solution {
 public:

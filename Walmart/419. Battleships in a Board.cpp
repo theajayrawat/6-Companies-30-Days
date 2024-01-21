@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/battleships-in-a-board/
-// SC: O(N*M)
-// TC: O(1)
+// TC: O(N*M)
+// SC: O(1)
 
 class Solution {
 public:

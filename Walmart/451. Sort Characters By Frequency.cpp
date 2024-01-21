@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/sort-characters-by-frequency/
-// SC: O(N)
-// TC: O(N) 
+// TC: O(N)
+// SC: O(N) 
 
 class Solution {
 public:

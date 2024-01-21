@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/largest-divisible-subset/
-// SC: O(N*N)
-// TC: O(N) 
+// TC: O(N*N)
+// SC: O(N) 
 
 class Solution
 {

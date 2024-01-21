@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/top-k-frequent-words/
-// SC: O(NLogN)
-// TC: O(N) 
+// TC: O(NLogN)
+// SC: O(N) 
 
 class Solution {
 public:
