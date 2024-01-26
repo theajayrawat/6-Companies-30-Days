@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/matrix-cells-in-distance-order/
-// T.C : O(NlogN)
-// S.C : O(N)
+// T.C : O(N*M) 
+// S.C : O(N*M)
 
 class Solution {
 public:
